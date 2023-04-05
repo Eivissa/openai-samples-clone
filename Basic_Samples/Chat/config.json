@@ -1,0 +1,5 @@
+{
+    "CHATGPT_MODEL":"gpt-35-turbo-test01",
+    "OPENAI_API_BASE":"https://xoopenai.openai.azure.com/",
+    "OPENAI_API_VERSION":"2023-03-15-preview"
+}
